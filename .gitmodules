@@ -1,0 +1,3 @@
+[submodule "cydia"]
+	path = cydia
+	url = https://github.com/ElvisClaros/Ios7-Tweaks.git
